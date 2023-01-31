@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-projects/static/css/main.3dde6c27.css",
+    "main.js": "/portfolio-projects/static/js/main.1c17513d.js",
+    "static/media/Train.png": "/portfolio-projects/static/media/Train.127d2094af18e0d73841.png",
+    "static/media/Eminent.png": "/portfolio-projects/static/media/Eminent.58604144f5177496e0f6.png",
+    "static/media/billing.png": "/portfolio-projects/static/media/billing.775e433860a7ed8e19f4.png",
+    "static/media/musicapp.png": "/portfolio-projects/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/resume.pdf": "/portfolio-projects/static/media/resume.2e10ac82f64b202a5dbc.pdf",
+    "static/media/img1.png": "/portfolio-projects/static/media/img1.7530e4822af83cac928e.png",
+    "static/media/glassesimoji.png": "/portfolio-projects/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/portfolio-projects/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/portfolio-projects/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portfolio-projects/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portfolio-projects/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portfolio-projects/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/portfolio-projects/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/portfolio-projects/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/portfolio-projects/index.html",
+    "main.3dde6c27.css.map": "/portfolio-projects/static/css/main.3dde6c27.css.map",
+    "main.1c17513d.js.map": "/portfolio-projects/static/js/main.1c17513d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dde6c27.css",
+    "static/js/main.1c17513d.js"
+  ]
+}
